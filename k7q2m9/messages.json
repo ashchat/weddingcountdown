@@ -2,6 +2,11 @@
   "weddingDate": "2027-07-02",
   "weekly": [
     {
+      "start": "2026-09-26",
+      "title": "Test!",
+      "message": "This is a test."
+    },
+    {
       "start": "2026-09-27",
       "title": "Happy birthday, Sarah!",
       "message": "I love you very much, my dear."
