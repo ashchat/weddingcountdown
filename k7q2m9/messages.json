@@ -1,0 +1,23 @@
+{
+  "weddingDate": "2027-07-02",
+  "weekly": [
+    {
+      "start": "2026-09-27",
+      "title": "Happy birthday, Sarah!",
+      "message": "I love you very much, my dear."
+    },
+    {
+      "start": "2026-10-04",
+      "message": "[Week 2 note]"
+    },
+    {
+      "start": "2026-10-11",
+      "message": "[Week 3 note]"
+    },
+    {
+      "start": "2026-10-18",
+      "message": "[Week 4 note]"
+    }
+  ],
+  "events": []
+}
