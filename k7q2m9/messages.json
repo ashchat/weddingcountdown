@@ -8,7 +8,7 @@
     },
     {
       "start": "2026-09-29",
-      "title": "Good luck on your first day, my dear!",
+      "title": "Good luck on your first week, my dear!",
       "message": "You're going to have a blast and they all love you already! Go show them who's boss...who boss? Love you!"
     },
     {
@@ -24,5 +24,11 @@
       "message": "[Week 4 note]"
     }
   ],
-  "events": []
+  "events": [
+    {
+      "start": "2026-10-01",
+      "title": "Dinner with Raos",
+      "detail": "Khaosan · 6:30 PM"
+    },
+  ]
 }
